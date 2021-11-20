@@ -1,3 +1,4 @@
+// Enter Subscription Id
 param storageName string = 'charlesstorage1118'
 param subscriptionId string = ''
 
